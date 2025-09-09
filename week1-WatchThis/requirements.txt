@@ -1,0 +1,6 @@
+pandas
+numpy
+requests
+sentence_transformers
+psycopg2-binary 
+pgvector
